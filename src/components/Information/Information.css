@@ -1,0 +1,38 @@
+.information{
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    background-color: rgb(117, 190, 233);
+    margin-top: 20px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 1px 0px 1px 0px;
+}
+.firstInfo img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.secondInfo{
+    margin-left: 60px;
+    margin-top: 5px;
+}
+.design{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(8, 3, 41);
+    color: floralwhite;
+    
+}
+
+.design:hover{
+    background-color: rgb(7, 224, 7);
+    color: rgb(8, 7, 7);
+    border-radius: 30px;
+    
+}
+.design:focus{
+    background-color: rgb(4, 168, 233);
+    color: rgb(174, 219, 170);
+}

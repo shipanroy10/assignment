@@ -1,0 +1,27 @@
+.first{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 20px;
+    
+}
+.first h2:hover{
+    color: rgb(156, 99, 248);  font-size: 60px;
+}
+nav{
+    background-color: black;
+    font-size: 25px;
+    line-height: 50px;
+
+}
+nav a{
+    text-decoration: none;
+    padding:8px;
+    margin-left: 5px;
+    color: white;
+
+}
+nav a:hover{
+    background-color: rgb(185, 255, 252);
+    color: black;
+}
